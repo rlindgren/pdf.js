@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "node ./node_modules/.bin/jshint --extra-ext .jsm .",
-    "postInstall": "node make generic"
+    "postinstall": "node make generic"
   },
   "repository": {
     "type": "git",
